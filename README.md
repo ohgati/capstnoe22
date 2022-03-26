@@ -48,5 +48,5 @@
 ▶ 메인 페이지에 사용할 슬라이드 페이지 제작 \
 ▶ 로고 제작 \
 ▶ 메인 페이지 나라별 원두 슬라이드 제작\
-[](%EB%93%9C%EB%A6%AC%ED%8D%BC.png) \
-[img](%EA%B3%BC%ED%85%8C%EB%A7%90%EB%9D%BC.png)
+[img](./%EB%93%9C%EB%A6%AC%ED%8D%BC.png) \
+[img](./%EA%B3%BC%ED%85%8C%EB%A7%90%EB%9D%BC.png)
